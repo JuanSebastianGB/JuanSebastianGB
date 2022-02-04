@@ -2,7 +2,8 @@
 
 ##  Hi there 👋🏻,
 
-I am a Colombian programming enthusiast, with the spirit of sharing knowledge and collaborating on computational projects.
+### <section align = 'center'>I am a Colombian Front Developer , with the spirit of sharing knowledge and learn.</section>
+<b>
 
 ##  📬 Get in touch
 
