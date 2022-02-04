@@ -14,7 +14,7 @@ I am a Colombian programming enthusiast, with the spirit of sharing knowledge an
 
 ##  &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/fernandomireles/fernandomireles">
+<a href="https://github.com/JuanSebastianGB/JuanSebastianGB">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSebastianGB&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 
